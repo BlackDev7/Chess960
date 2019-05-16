@@ -5,6 +5,9 @@ var pieces = {
     bishop: 'images/WB.svg', 
     horse: 'images/WH.svg', 
 }
+
+// hobs
+
 $('.generateButton').on('click', function () {
     generate();
 });
